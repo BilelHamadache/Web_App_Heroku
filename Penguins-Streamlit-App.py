@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
 
-st.write("Penguin Prediction App")
+st.write("Penguin Prediction App BY Bilel H.")
 
 st.sidebar.header('Input Features')
 st.sidebar.markdown("""
